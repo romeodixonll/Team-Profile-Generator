@@ -18,6 +18,12 @@ Cloning the repo from Github. Then install Node.js. This application requires In
 ## Usage
 This app will take basic info through Inguirer/nodejs and output a index.html page
 
+https://user-images.githubusercontent.com/95494071/156358451-17cafb75-bae8-41d2-9918-34460d773954.mp4
+
+<br/>[click here to view video](https://user-images.githubusercontent.com/95494071/156358451-17cafb75-bae8-41d2-9918-34460d773954.mp4
+)
+
+
 ## License
 MIT
 Info on license: https://opensource.org/licenses/MIT
